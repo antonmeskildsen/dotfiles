@@ -31,7 +31,7 @@ default_border none
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/anton/Pictures/luca-micheli.jpg fill
+output * bg img/luca-micheli.jpg fill
 #
 # Example configuration:
 #
